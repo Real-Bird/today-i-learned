@@ -8,5 +8,6 @@
 <summary>05</summary>
 
 - [18 - JS 스코프](./23/05/18.md)
+- [19 - JS 암묵적 전역 변수, void](./23/05/19.md)
 
 </details>
