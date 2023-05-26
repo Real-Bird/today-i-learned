@@ -5,7 +5,7 @@
 ## 2023
 
 <details open>
-<summary>05 - total: 7</summary>
+<summary>05 - total: 9</summary>
 
 - [18 - JS 스코프](./23/05/18.md)
 - [19 - JS 암묵적 전역 변수, void](./23/05/19.md)
@@ -14,6 +14,7 @@
 - [22 - CS REST/RESTful API](./23/05/22.md)
 - [23 - CS 크롬 개발 도구 네트워크 탭, HTTP RFC, 주소체계](./23/05/23.md)
 - [24 - CS HTTP Method, 안전한 메서드와 멱등성 메서드, 상태 코드](./23/05/24.md)
-- [25 - ](./23/05/25.md)
+- [25 - JS 스코프 체인](./23/05/25.md)
+- [26 - CS Header - 컨텐츠 협상과 MIME Type, Keep-Alive, Date, Transfer-Encoding, Authorization, Allow, Referer, 커스텀 헤더](./23/05/26.md)
 
 </details>
