@@ -1,6 +1,6 @@
 ---
 Total-TIL: 11
-Last-Modified: 2023.06.05
+Last-Uploaded: 2023.06.05
 ---
 
 # Today I Learned
