@@ -1,6 +1,6 @@
 ---
-Total-TIL: 12
-Last-Uploaded: 2023.06.10
+Total-TIL: 13
+Last-Uploaded: 2023.06.12
 ---
 
 # Today I Learned
@@ -26,9 +26,10 @@ Last-Uploaded: 2023.06.10
 </details>
 
 <details open>
-<summary>06 - count : 2</summary>
+<summary>06 - count : 3</summary>
 
 - [05 - 원티드 프리온보딩 FE 챌린지 6월 Day-1 참고](./2023/06/05.md)
 - [10 - 원티드 프리온보딩 FE 챌린지 6월 Day-2 참고](./2023/06/10.md)
+- [12 - JS - Node.js 와 npm](./2023/06/12.md)
 
 </details>
