@@ -1,6 +1,6 @@
 ---
-Total-TIL: 19
-Last-Uploaded: 2023.07.02
+Total-TIL: 20
+Last-Uploaded: 2023.07.03
 ---
 
 # Today I Learned
@@ -40,8 +40,9 @@ Last-Uploaded: 2023.07.02
 </details>
 
 <details open>
-<summary>07 - count : 1</summary>
+<summary>07 - count : 2</summary>
 
 - [02 - AWS S3 정적 사이트 배포](./2023/07/02.md)
+- [03 - AWS S3 CI/CD 자동화 with GitHub Actions](./2023/07/02.md)
 
 </details>
