@@ -1,6 +1,6 @@
 ---
-Total-TIL: 20
-Last-Uploaded: 2023.07.03
+Total-TIL: 21
+Last-Uploaded: 2023.07.08
 ---
 
 # Today I Learned
@@ -40,9 +40,10 @@ Last-Uploaded: 2023.07.03
 </details>
 
 <details open>
-<summary>07 - count : 2</summary>
+<summary>07 - count : 3</summary>
 
 - [02 - AWS S3 정적 사이트 배포](./2023/07/02.md)
 - [03 - AWS S3 CI/CD 자동화 with GitHub Actions](./2023/07/02.md)
+- [08 - React 라이브러리 없이 SPA 구현 리팩토링](./2023/07/08.md)
 
 </details>
